@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dashbord_nesma/static/css/main.5bd68f0c.css",
-    "main.js": "/dashbord_nesma/static/js/main.c898fd7a.js",
+    "main.js": "/dashbord_nesma/static/js/main.6683f151.js",
     "static/js/787.3c95c204.chunk.js": "/dashbord_nesma/static/js/787.3c95c204.chunk.js",
     "static/media/[Sia - Snowman (Lyrics) [status whatsapp 30 second(360P).mp4": "/dashbord_nesma/static/media/[Sia - Snowman (Lyrics) [status whatsapp 30 second(360P).24e3194dcbf2eba7fc76.mp4",
     "static/media/Pizza.png": "/dashbord_nesma/static/media/Pizza.15c0eaf3ddc881dd1b25.png",
@@ -41,11 +41,11 @@
     "static/media/trash.svg": "/dashbord_nesma/static/media/trash.1116fd92fc341dc998e456f3c46a66ea.svg",
     "static/media/trash-black.svg": "/dashbord_nesma/static/media/trash-black.de2ff6ca74ad9df544452a23d471a043.svg",
     "main.5bd68f0c.css.map": "/dashbord_nesma/static/css/main.5bd68f0c.css.map",
-    "main.c898fd7a.js.map": "/dashbord_nesma/static/js/main.c898fd7a.js.map",
+    "main.6683f151.js.map": "/dashbord_nesma/static/js/main.6683f151.js.map",
     "787.3c95c204.chunk.js.map": "/dashbord_nesma/static/js/787.3c95c204.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bd68f0c.css",
-    "static/js/main.c898fd7a.js"
+    "static/js/main.6683f151.js"
   ]
 }
